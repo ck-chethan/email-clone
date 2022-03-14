@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.header-spc {
+  margin-left: 20px;
+}
