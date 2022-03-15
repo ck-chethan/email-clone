@@ -1,0 +1,33 @@
+.email-body {
+  border: 1px solid #cfd2dc;
+  flex: 8;
+  padding: 20px;
+  margin-right: 20px;
+  background-color: white;
+}
+.topBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.fav {
+  width: 150px;
+  height: 30px;
+  border-radius: 20px;
+  background-color: #e54065;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.para {
+  padding: 20px 20px 20px 50px;
+}
